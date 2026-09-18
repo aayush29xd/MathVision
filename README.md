@@ -11,7 +11,7 @@ HandyMath is a computer‐vision “gesture calculator” that lets you draw num
 ```bash
 # Clone the repository
 git clone https://github.com/aayush29xd/MathVision.git
-cd HandyMath
+cd MathVision
 
 # Install required module
 pip install -r requirements.txt
